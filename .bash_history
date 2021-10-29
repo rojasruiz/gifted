@@ -73,3 +73,26 @@ clear
 git push --set-upstream origin master
 cd ..
 ls
+cd 
+ls
+rm backup_db1.zip 
+ls
+git init
+git commit am "First commit"
+git commit -am "First commit"
+git remote add gifted https://github.com/rojasruiz/gifted.git
+git push
+git remote add gifted https://github.com/rojasruiz/gifted.git
+git push gifted 
+ls
+git add .
+git commit -am "addons added"
+git push gifted
+ls
+git add .
+git commit -am "pswd changed"
+git push gifted 
+ls
+ls odoo
+cd odoo14
+ls
