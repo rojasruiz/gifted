@@ -51,3 +51,25 @@ wget --post-data 'master_pwd=123456&name=db1&backup_format=zip' -O ./backup_db1.
 sudo su dammie
 123456
 sudo su 
+ls
+mv x-special/nautilus-clipboard
+copy
+file:///home/dammie/Descargas/db1_2021-10-06_11-40-12.zip
+clear
+wget --post-data 'master_pwd=123456&name=db1&backup_format=zip' -O ./backup_db1.zip http://localhost:8069/web/database/backup
+ls
+git add .
+git commit -m "backup added"
+git push
+git push --set-upstream origin master
+clear
+git push
+git push --set-upstream origin master
+pEiwDaVTLwrLAaOIkSECe1o5fyRo0LrX1W5qZAGrVfopEiwDaVTLwrLAaOIkSECe1o5fyRo0LrX1W5qZAGrVfopEiwDaVTLwrLAaOIkSECe1o5fyRo0LrX1W5qZAGrVfopEiw
+clear
+git push
+git push --set-upstream origin master
+clear
+git push --set-upstream origin master
+cd ..
+ls
