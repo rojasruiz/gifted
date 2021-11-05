@@ -15,5 +15,8 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
     ![imagendeinicioGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/GiftedInicio.PNG)
     
 2. Contactenos
-    * 
+    * Aqui encontraremos un formulario para realizar cualquier consulta o informar sobre algun problema a nuestros tecnicos, deberas introducir tus 
+      datos para enviar la consulta y sera atendida con la mayor brevedad posible.
+      Tambien dispone de un telefono de contacto, correo electronico y direccion en google maps de la ubicacion de nuestra sede.
+      
   
