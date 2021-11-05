@@ -2,7 +2,7 @@
 Gifted es una aplicacion diseñada para evitar quebraderos de cabeza a la hora de hacer un regalo a un ser querido, es basicamente una red social 
 en la cual puedes seguir a tus amigos o familiares y ver su lista de regalos deseados. Gracias a Gifted podreis evitar regalos no deseados y 
 acertar siempre a la hora de hacer un regalo .
-## Pagina web
+## Pagina web 🌍
 Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Descargar y el carrito de compra
 1. **Inicio 🛫**
     * En esta pestaña es donde encontramos toda la documentacion y explicacion de los servicios de Gifted, encontraemos una descripcion
@@ -32,4 +32,4 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
     * Aqui podremos revisar los regalos que tenemos seleccionados y el informe de pedido, en el cual podremos ver cuanto tiempo queda hasta 
       la entrega del producto.
       
-      ![imagendeContactanosGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/DescargaGifted.PNG)
+      ![imagendeContactanosGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CarritoGifted.PNG)
