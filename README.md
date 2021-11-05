@@ -11,6 +11,6 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
     que se lo ha regalado.
     La funcionalidad de crear el amigo invisble consiste en que un grupo de personas , que quieran realizar dicha actividad, se conectan 
     a Gifted y la propia web les genera el reparto de personas para el amigo invisible.
-    
+    ![imagendeinicioGifted](/Documentacion/GiftedInicio.png)
     *  
   
