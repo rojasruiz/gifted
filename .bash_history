@@ -96,3 +96,25 @@ ls
 ls odoo
 cd odoo14
 ls
+cd ~
+ls
+ls odoo14
+mkdir dumps
+wget --post-data 'master_pwd=123456&name=Gifted&backup_format=zip' -O ./backup_gifted.zip http://localhost:8069/web/database/backup
+ls
+mv backup_gifted.zip dumps
+ls
+ls dumps
+git add .
+git commit -am "database backup"
+git push gifted
+cd ~
+ls
+ls -la
+nano .git
+cd .git
+ls
+cd ..
+git log
+git branch
+git remote
