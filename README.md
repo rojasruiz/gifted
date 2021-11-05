@@ -14,6 +14,11 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
     
     ![imagendeinicioGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/GiftedInicio.PNG)
     
+    Al final de la pagina , encontraremos la seccion de contactos, redes sociales, licencias, informacion sobre la legislacion, servicios y 
+    una breve descripcion aparte del selector de idioma.
+    
+    ![imagendeinicioGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/Inicio2Gifted.PNG)
+    
     
 2. **Contactenos 📞**
     * Aqui encontraremos un formulario para realizar cualquier consulta o informar sobre algun problema a nuestros tecnicos, deberas introducir tus 
