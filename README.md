@@ -38,3 +38,25 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
       la entrega del producto.
       
       ![imagendeContactanosGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CarritoGifted.PNG)
+      
+      
+## Botones personalizados 👨‍💻 
+
+   * En gifted cada detalle cuenta, por ello tenemos una gran variedad de botones personalizados hechos en html/css, aqui les dejamos el codigo CSS:
+
+
+~~~
+.buttonCustom{
+border-radius: 5px;
+point-events: auto;
+cursor:pointer;
+background-color: aliceblue;
+border: none;
+padding: 1.5rem 3rem;
+margin:0;
+font family:inherit;
+font-size: inherit;
+position:relative;
+display: inline-block;
+}
+~~~
