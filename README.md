@@ -62,15 +62,16 @@ display: inline-block;
 ~~~
 
 ## Defensa Proyecto 🛡️
-En los siguientes apartados vamos a explicar como hemos realizado la creacion de Gifted y sus diferentes sistemas internos.
+* En los siguientes apartados vamos a explicar como hemos realizado la creacion de Gifted y sus diferentes sistemas internos.
 
 **Descargar**
-El codigo de nuestra ventana descargar
+* El codigo de nuestra ventana descargar
 ![ImagenCodigoVentanaDescarga](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CodigoDescargar.png)
 
 **Manejo del trabajo y organizacion**
-Al tener mucha carga de trabajo y muchas tareas que realizar, es conveniente la creacion de un tablero de trabajo para 
+* Al tener mucha carga de trabajo y muchas tareas que realizar, es conveniente la creacion de un tablero de trabajo para 
 poder organizar de manera visual las diferentes tareas u objetivos que tenemos que cumplir
 En la foto se puede observar el tablero y las tareas pendientes
+
 
 
