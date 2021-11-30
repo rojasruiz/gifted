@@ -100,9 +100,16 @@ En la foto se puede observar el tablero y las tareas pendientes.
     
 **Gestion Base de datos**
 * La gestion de la informacion es algo esencial, por lo tanto hemos de crear diferentes copias de seguridad (Backup) de todos nuestros
-   datos para, en caso de error, podamos recuperar hasta la ultima copia de sefuridad
+   datos para, en caso de error, podamos recuperar hasta la ultima copia de seguridad
    
-   ![GestionBaseDatos]()
+   ![GestionBaseDatos](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/SistemaBaseDatosGifted.png)
+   
+   En este caso tenemos nuestra base de datos actual operativa y tambien tenemos la copia de dicha base de datos.
+   Al crear copias de seguiridad tenemos que tener en cuenta la seguridad, ya que son datos sensibles de usuarios
+   , cuentas y contraseñas entre otros datos.
+   Por ello debemos encriptar toda la copia de seguirdad y asi garantizar que es imposible que al abrir esos archivos 
+   se pueda leer la informacion contenida en ellos.
+   
     
   
 
