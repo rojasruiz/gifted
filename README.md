@@ -60,3 +60,10 @@ position:relative;
 display: inline-block;
 }
 ~~~
+
+##Creacion de Gifted
+En los siguientes apartados vamos a explicar como hemos realizado la creacion de Gifted y sus diferentes sistemas internos.
+
+**Descargar**
+El codigo de nuestra ventana descargar
+
