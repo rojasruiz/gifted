@@ -82,8 +82,8 @@ En la foto se puede observar el tablero y las tareas pendientes.
   
   ![ImagenCalendario](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CalendarioGifted.png)
   
-  **Eventos**
-  * En Gifted tenemos diferentes eventos, como por ejemplo el evento de navidad el cual tiene inicio desde las 2:00 am del 
+**Eventos**
+* En Gifted tenemos diferentes eventos, como por ejemplo el evento de navidad el cual tiene inicio desde las 2:00 am del 
     1 de diciembre hasta el 31 de diciembre.
     
     ![ImagenEventoNavidad1](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/EventoNavidad1.png)
@@ -91,12 +91,19 @@ En la foto se puede observar el tablero y las tareas pendientes.
     ![ImagenEventoNavidad2](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/EventoNavidad2.png)
    
    
-  **Chat interno**
-  * En Gifted hemos desarrollado un sistema de "chat" entre usuarios y entre empleados, para facilitar la comunicacion 
+**Chat interno**
+* En Gifted hemos desarrollado un sistema de "chat" entre usuarios y entre empleados, para facilitar la comunicacion 
     entre nuestros desarrolladores y para que los usuarios puedan comunicarse con nuestros tecnicos y solucionar sus
     diferetenes dudas o problemas a la hora de usar nuestros servicios.
     
-    ![ImagenChatGifed]()
+    ![ImagenChatGifed](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/SistemaChatGifted.png)
+    
+**Gestion Base de datos**
+* La gestion de la informacion es algo esencial, por lo tanto hemos de crear diferentes copias de seguridad (Backup) de todos nuestros
+   datos para, en caso de error, podamos recuperar hasta la ultima copia de sefuridad
+   
+   ![GestionBaseDatos]()
+    
   
 
 
