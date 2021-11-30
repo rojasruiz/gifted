@@ -85,7 +85,9 @@ En la foto se puede observar el tablero y las tareas pendientes.
   **Eventos**
   * En Gifted tenemos diferentes eventos, como por ejemplo el evento de navidad el cual tiene inicio desde las 2:00 am del 
     1 de diciembre hasta el 31 de diciembre.
+    ![ImagenEventoNavidad1]()
     
+    ![ImagenEventoNavidad2]()
   
 
 
