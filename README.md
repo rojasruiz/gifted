@@ -80,5 +80,12 @@ En la foto se puede observar el tablero y las tareas pendientes.
 * La creacion de un calendario es algo indispensable para poder tener una buena vision en el tiempo de todas tus actividades
   recordatorios, eventos y reuniones.
   
+  ![ImagenCalendario](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CalendarioGifted.png)
+  
+  **Eventos**
+  * En Gifted tenemos diferentes eventos, como por ejemplo el evento de navidad el cual tiene inicio desde las 2:00 am del 
+    1 de diciembre hasta el 31 de diciembre.
+    
+  
 
 
