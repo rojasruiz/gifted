@@ -85,9 +85,18 @@ En la foto se puede observar el tablero y las tareas pendientes.
   **Eventos**
   * En Gifted tenemos diferentes eventos, como por ejemplo el evento de navidad el cual tiene inicio desde las 2:00 am del 
     1 de diciembre hasta el 31 de diciembre.
-    ![ImagenEventoNavidad1]()
     
-    ![ImagenEventoNavidad2]()
+    ![ImagenEventoNavidad1](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/EventoNavidad1.png)
+    
+    ![ImagenEventoNavidad2](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/EventoNavidad2.png)
+   
+   
+  **Chat interno**
+  * En Gifted hemos desarrollado un sistema de "chat" entre usuarios y entre empleados, para facilitar la comunicacion 
+    entre nuestros desarrolladores y para que los usuarios puedan comunicarse con nuestros tecnicos y solucionar sus
+    diferetenes dudas o problemas a la hora de usar nuestros servicios.
+    
+    ![ImagenChatGifed]()
   
 
 
