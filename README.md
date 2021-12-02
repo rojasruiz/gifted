@@ -12,12 +12,12 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
     La funcionalidad de crear el amigo invisble consiste en que un grupo de personas , que quieran realizar dicha actividad, se conectan 
     a Gifted y la propia web les genera el reparto de personas para el amigo invisible.
     
-    ![imagendeinicioGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/GiftedInicio.PNG)
+    ![imagendeinicioGifted](./Documentacion/GiftedInicio.PNG)
     
     Al final de la pagina , encontraremos la seccion de contactos, redes sociales, licencias, informacion sobre la legislacion, servicios y 
     una breve descripcion aparte del selector de idioma.
     
-    ![imagendeinicioGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/Inicio2Gifted.PNG)
+    ![imagendeinicioGifted](./Documentacion/Inicio2Gifted.PNG)
     
     
 2. **Contactenos 📞**
@@ -25,19 +25,19 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
       datos para enviar la consulta y sera atendida con la mayor brevedad posible.
       Tambien dispone de un telefono de contacto, correo electronico y direccion en google maps de la ubicacion de nuestra sede.
      
-      ![imagendeContactanosGifted]( https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/ContactenosGifted.PNG)
+      ![imagendeContactanosGifted](./Documentacion/ContactenosGifted.PNG)
       
       
 3. **Descargar ⬇️**
     * Esta ventana simplemente tiene una unica funcionalidad que es la de descargar nuestra aplicacion directamente en su dispositivo
   
-       ![imagendeContactanosGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/DescargaGifted.PNG)
+       ![imagendeContactanosGifted](./Documentacion/DescargaGifted.PNG)
  
 4. **Carrito de compra 🛒**
     * Aqui podremos revisar los regalos que tenemos seleccionados y el informe de pedido, en el cual podremos ver cuanto tiempo queda hasta 
       la entrega del producto.
       
-      ![imagendeContactanosGifted](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CarritoGifted.PNG)
+      ![imagendeContactanosGifted](./Documentacion/CarritoGifted.PNG)
       
       
 ## Botones personalizados 👨‍💻 
@@ -76,34 +76,34 @@ sudo systemctl status odoo14
 ~~~
 El servicio inciado correctamente ha de tener este aspecto
 
-![ImagenServicioOdoo](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/ImagenGiftedComandos.PNG)
+![ImagenServicioOdoo](./Documentacion/ImagenGiftedComandos.PNG)
 
 
 **Descargar**
 * El codigo de nuestra ventana descargar.
 
-![ImagenCodigoVentanaDescarga](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CodigoDescargar.png)
+![ImagenCodigoVentanaDescarga](./Documentacion/CodigoDescargar.png)
 
 **Manejo del trabajo y organizacion**
 * Al tener mucha carga de trabajo y muchas tareas que realizar, es conveniente la creacion de un tablero de trabajo para 
 poder organizar de manera visual las diferentes tareas u objetivos que tenemos que cumplir
 En la foto se puede observar el tablero y las tareas pendientes.
 
-![ImagenTableroTrabajo](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/TableroGifted.png)
+![ImagenTableroTrabajo](./Documentacion/TableroGifted.png)
 
 **Calendario**
 * La creacion de un calendario es algo indispensable para poder tener una buena vision en el tiempo de todas tus actividades
   recordatorios, eventos y reuniones.
   
-  ![ImagenCalendario](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/CalendarioGifted.png)
+  ![ImagenCalendario](./Documentacion/CalendarioGifted.png)
   
 **Eventos**
 * En Gifted tenemos diferentes eventos, como por ejemplo el evento de navidad el cual tiene inicio desde las 2:00 am del 
     1 de diciembre hasta el 31 de diciembre.
     
-    ![ImagenEventoNavidad1](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/EventoNavidad1.png)
+    ![ImagenEventoNavidad1](./Documentacion/EventoNavidad1.png)
     
-    ![ImagenEventoNavidad2](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/EventoNavidad2.png)
+    ![ImagenEventoNavidad2](./Documentacion/EventoNavidad2.png)
    
    
 **Chat interno**
@@ -111,13 +111,13 @@ En la foto se puede observar el tablero y las tareas pendientes.
     entre nuestros desarrolladores y para que los usuarios puedan comunicarse con nuestros tecnicos y solucionar sus
     diferetenes dudas o problemas a la hora de usar nuestros servicios.
     
-    ![ImagenChatGifed](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/SistemaChatGifted.png)
+    ![ImagenChatGifed](./Documentacion/SistemaChatGifted.png)
     
 **Gestion Base de datos**
 * La gestion de la informacion es algo esencial, por lo tanto hemos de crear diferentes copias de seguridad (Backup) de todos nuestros
    datos para, en caso de error, podamos recuperar hasta la ultima copia de seguridad
    
-   ![GestionBaseDatos](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/SistemaBaseDatosGifted.png)
+   ![GestionBaseDatos](./Documentacion/SistemaBaseDatosGifted.png)
    
    En este caso tenemos nuestra base de datos actual operativa y tambien tenemos la copia de dicha base de datos.
    Al crear copias de seguiridad tenemos que tener en cuenta la seguridad, ya que son datos sensibles de usuarios
