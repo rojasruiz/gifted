@@ -61,6 +61,7 @@ display: inline-block;
 }
 ~~~
 
+
 # Defensa Proyecto 🛡️
 * En los siguientes apartados vamos a explicar como hemos realizado la creacion de Gifted y sus diferentes sistemas internos.
 
@@ -76,6 +77,7 @@ sudo systemctl status odoo14
 El servicio inciado correctamente ha de tener este aspecto
 
 ![ImagenServicioOdoo](https://github.com/IkerFernandez21/gifted/blob/patch-1/Documentacion/ImagenGiftedComandos.PNG)
+
 
 **Descargar**
 * El codigo de nuestra ventana descargar.
