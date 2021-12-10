@@ -39,7 +39,24 @@ Nuestra pagina web cuenta con 4 pestañas diferentes: Inicio, Contactenos, Desca
       
       ![imagendeContactanosGifted](./Documentacion/CarritoGifted.PNG)
       
-      
+
+
+# Defensa Proyecto 🛡️
+* En los siguientes apartados vamos a explicar como hemos realizado la creacion de Gifted y sus diferentes sistemas internos.
+
+**Inicio del servicio**
+Para comenzar debemos iniciar nuestro servicio Odoo, para ello utilizaremos los siguientes comandos: 
+~~~
+sudo systemctl start odoo14
+~~~
+Una vez inciado , comprobamos que efectivamente se ha iniciado el servicio con el siguiente comando
+~~~
+sudo systemctl status odoo14
+~~~
+El servicio inciado correctamente ha de tener este aspecto
+
+![ImagenServicioOdoo](./Documentacion/ImagenGiftedComandos.PNG)
+
 ## Botones personalizados 👨‍💻 
 
    * En gifted cada detalle cuenta, por ello tenemos una gran variedad de botones personalizados hechos en html/css, aqui les dejamos el codigo CSS:
@@ -61,26 +78,7 @@ display: inline-block;
 }
 ~~~
 
-
-# Defensa Proyecto 🛡️
-* En los siguientes apartados vamos a explicar como hemos realizado la creacion de Gifted y sus diferentes sistemas internos.
-
-**Inicio del servicio**
-Para comenzar debemos iniciar nuestro servicio Odoo, para ello utilizaremos los siguientes comandos: 
-~~~
-sudo systemctl start odoo14
-~~~
-Una vez inciado , comprobamos que efectivamente se ha iniciado el servicio con el siguiente comando
-~~~
-sudo systemctl status odoo14
-~~~
-El servicio inciado correctamente ha de tener este aspecto
-
-![ImagenServicioOdoo](./Documentacion/ImagenGiftedComandos.PNG)
-
-
-**Descargar**
-* El codigo de nuestra ventana descargar.
+* El codigo html de la página descargar con el botón personalizado
 
 ![ImagenCodigoVentanaDescarga](./Documentacion/CodigoDescargar.png)
 
